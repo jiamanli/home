@@ -1,0 +1,115 @@
+body 
+{
+	text-align: center;
+	font-family: helvetica;
+}
+
+
+
+.header 
+{
+	text-shadow: 3px 3px 5px black;
+	padding: 0px;
+	margin: 0px;
+	font-family: georgia;
+	font-size: 16px;
+	height: 100px;
+	background: linear-gradient(to bottom, #323335 0%, #ffffff 100%)
+}
+
+
+body 
+{
+	margin: 0;
+}
+
+
+.header 
+{
+	background-color: #f1f1f1;
+	padding: 20px;
+	text-align: center;
+}
+
+
+.topnav 
+{
+	overflow: hidden;
+	background-color: #333;
+	position: sticky;
+	top: 0;
+}
+
+.topnav a 
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.topnav a:hover 
+{
+	background-color: #ddd;
+	color: black;
+}
+
+.topnav input[type=text] 
+{
+	float: right;
+	padding: 6px;
+	margin-top: 8px;
+	margin-right: 16px;
+	border: none;
+	font-size: 17px;
+}
+
+.topnav input[type=text] 
+{
+	border: 1px solid #ccc;  
+}
+
+.content 
+{
+	color: black;
+}
+
+#validation
+{
+	margin-bottom: 50px;
+	color: #171616;
+}
+
+.footer 
+{
+	text-align:center;
+	padding: 10px;
+	font-family: georgia;
+	font-size: 16px;
+	border-top-style: solid;
+	width: 100%;
+	height: 11%;
+	bottom: 0px;
+	background-color: #ffffff;
+	color: #000000;
+}
+
+img[src="images/instagram.jpg"] 
+{
+	width: 50px;
+	height: 50px;
+}
+
+img[src="images/pinterest.png"] 
+{
+	width: 50px;
+	height: 50px;
+}
+
+img[src="images/twitter.jpg"] 
+{
+	width: 50px;
+	height: 50px;
+}
